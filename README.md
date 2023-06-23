@@ -1,1 +1,1 @@
-# secure-serverless-video-chat-application-using-docker
+# video-chat-application-using-docker
